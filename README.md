@@ -18,7 +18,9 @@ Express + Sequelize + SQLite + JWT implementation for Fastor NodeJs assignment.
 ## Create .env from .env.example and set values:
 
 PORT=4000
+
 JWT_SECRET=your_secret
+
 DATABASE_STORAGE=./database.sqlite
 
 ## Start server:
